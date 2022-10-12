@@ -73,7 +73,7 @@
     border-right: 15vmin solid transparent;
     border-bottom: 120px solid blueviolet;
     position: relative;
-    top: 0.45vh;
+    top: -0.4vh;
     left: 23.5%;
     z-index: 999;
 }
